@@ -14,7 +14,9 @@ A programme that tells user to input image path and convert that image to a only
 
 ## To run locally
 
-- Clone this repo and just run it
+- Clone this repo
+- Run this command in terminal to install required libraries `pip install opencv-python matplotlib`
+- Run edgeDetect.py
 
 ## About this project
 
